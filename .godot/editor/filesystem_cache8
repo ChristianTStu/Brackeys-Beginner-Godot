@@ -1,0 +1,27 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1737682066
+icon.svg::CompressedTexture2D::1668928623431022267::1737681098::1737681962::1::::<><>::
+README.md::TextFile::-1::1737680985::0::1::::<><>::
+::res://assets/::1737681723
+LICENSE & CREDITS.txt::TextFile::-1::1713590494::0::1::::<><>::
+::res://assets/fonts/::1737682051
+PixelOperator8-Bold.ttf::FontFile::2090227976344276249::1709870350::1737682051::1::::<><>::
+PixelOperator8.ttf::FontFile::1159848703830757721::1709870350::1737682051::1::::<><>::
+::res://assets/music/::1737682051
+time_for_adventure.mp3::AudioStreamMP3::3066244802689255824::1710446912::1737682051::1::::<><>::
+::res://assets/sounds/::1737682051
+coin.wav::AudioStreamWAV::539586115357841083::1710382690::1737682051::1::::<><>::
+explosion.wav::AudioStreamWAV::4847406617151640104::1710382662::1737682051::1::::<><>::
+hurt.wav::AudioStreamWAV::842934326961821768::1710382450::1737682051::1::::<><>::
+jump.wav::AudioStreamWAV::391808780648969336::1710382586::1737682051::1::::<><>::
+power_up.wav::AudioStreamWAV::3047439407921797211::1710382780::1737682051::1::::<><>::
+tap.wav::AudioStreamWAV::4482778075550744410::1710382464::1737682051::1::::<><>::
+::res://assets/sprites/::1737682051
+coin.png::CompressedTexture2D::6225549406323652289::1709940710::1737682051::1::::<><>::
+fruit.png::CompressedTexture2D::1938695181353519430::1709946122::1737682051::1::::<><>::
+knight.png::CompressedTexture2D::908018714223701505::1709944220::1737682051::1::::<><>::
+platforms.png::CompressedTexture2D::290721101130123011::1709946218::1737682051::1::::<><>::
+slime_green.png::CompressedTexture2D::718047868414434417::1709941816::1737682051::1::::<><>::
+slime_purple.png::CompressedTexture2D::3022862823737457322::1709942240::1737682051::1::::<><>::
+world_tileset.png::CompressedTexture2D::6082532931114653473::1709946736::1737682051::1::::<><>::
+::res://scenes/::1737682066
