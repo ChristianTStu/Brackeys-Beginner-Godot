@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1737682066
+::res://::1738421331
 icon.svg::CompressedTexture2D::1668928623431022267::1737681098::1737681962::1::::<><>::
 README.md::TextFile::-1::1737680985::0::1::::<><>::
 ::res://assets/::1737681723
@@ -24,4 +24,8 @@ platforms.png::CompressedTexture2D::290721101130123011::1709946218::1737682051::
 slime_green.png::CompressedTexture2D::718047868414434417::1709941816::1737682051::1::::<><>::
 slime_purple.png::CompressedTexture2D::3022862823737457322::1709942240::1737682051::1::::<><>::
 world_tileset.png::CompressedTexture2D::6082532931114653473::1709946736::1737682051::1::::<><>::
-::res://scenes/::1737682066
+::res://scenes/::1737683354
+game.tscn::PackedScene::7451957758042846141::1737683354::0::1::::<><>::uid://c0lj1oddwsr7p::::res://scenes/player.tscn
+player.tscn::PackedScene::6550864237335843875::1737683354::0::1::::<><>::res://scripts/player.gd<>uid://m6362riupp7n::::res://assets/sprites/knight.png
+::res://scripts/::1737683154
+player.gd::GDScript::-1::1737683154::0::1::::<>CharacterBody2D<>::
